@@ -1,4 +1,4 @@
-# open-agent-harness
+# Alwebiee Agent Harness
 
 A minimal, dependency-light harness for running an LLM agent with tool calling, persistent memory, file access, and Model Context Protocol (MCP) support — all in ~270 lines of readable Python.
 
